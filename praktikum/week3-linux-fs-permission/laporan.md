@@ -44,7 +44,7 @@ dmesg | head
 
 ## Hasil Eksekusi
 Sertakan screenshot hasil percobaan atau diagram:
-![Screenshot hasil](screenshots/example.png)
+![Screenshot hasil](./praktikumweek3-linux-fs-permissionscreenshots/Screenshot%202025-11-11%20090936.png)
 
 ---
 
