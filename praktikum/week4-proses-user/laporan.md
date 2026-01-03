@@ -64,8 +64,10 @@ dmesg | head
 
 ## Hasil Eksekusi
 Sertakan screenshot hasil percobaan atau diagram:
-![Screenshot hasil](screenshots/example.png)
-
+![Screenshot hasil](./praktikumweek4-proses-userscreenshotstop.png/Screenshot%202025-11-10%20184822.png)
+![Screenshot hasil](./praktikumweek4-proses-userscreenshotstop.png/Screenshot%202025-11-10%20184952.png)
+![Screenshot hasil](./praktikumweek4-proses-userscreenshotstop.png/Screenshot%202025-11-10%20185108.png)
+![Screenshot hasil](./praktikumweek4-proses-userscreenshotstop.png/Screenshot%202025-11-11%20085946.png)
 ---
 
 ## Analisis
